@@ -1,0 +1,81 @@
+Enter Your Choice
+1-create 2-Search 3-Enter Symbol 4-Remove 5-View 6-Exit 1
+Enter the equation:D=A+B*C
+
+Enter Your Choice
+1-create 2-Search 3-Enter Symbol 4-Remove 5-View 6-Exit 5
+Symbol:D | Address: 3024354556016 | Type: Identifier
+Symbol:= | Address: 3024354287728 | Type: Operator      
+Symbol:A | Address: 3024354641008 | Type: Identifier    
+Symbol:+ | Address: 3024354778032 | Type: Operator      
+Symbol:B | Address: 3024354387504 | Type: Identifier    
+Symbol:* | Address: 3024348808368 | Type: Operator      
+Symbol:C | Address: 3024354387376 | Type: Identifier    
+
+Enter Your Choice
+1-create 2-Search 3-Enter Symbol 4-Remove 5-View 6-Exit 1
+Enter the equation:X=W/M-L
+
+Enter Your Choice
+1-create 2-Search 3-Enter Symbol 4-Remove 5-View 6-Exit 5       
+Symbol:D | Address: 3024354556016 | Type: Identifier    
+Symbol:= | Address: 3024354287728 | Type: Operator      
+Symbol:A | Address: 3024354641008 | Type: Identifier    
+Symbol:+ | Address: 3024354778032 | Type: Operator      
+Symbol:B | Address: 3024354387504 | Type: Identifier    
+Symbol:* | Address: 3024348808368 | Type: Operator      
+Symbol:C | Address: 3024354387376 | Type: Identifier    
+Symbol:X | Address: 3024354556400 | Type: Identifier    
+Symbol:= | Address: 3024354287728 | Type: Operator      
+Symbol:W | Address: 3024354556336 | Type: Identifier    
+Symbol:/ | Address: 3024348967536 | Type: Operator      
+Symbol:M | Address: 3024354640816 | Type: Identifier    
+Symbol:- | Address: 3024354367664 | Type: Operator      
+Symbol:L | Address: 3024354243824 | Type: Identifier    
+
+Enter Your Choice
+1-create 2-Search 3-Enter Symbol 4-Remove 5-View 6-Exit 3
+Enter the equation:E
+
+Enter Your Choice
+1-create 2-Search 3-Enter Symbol 4-Remove 5-View 6-Exit 5
+Symbol:D | Address: 3024354556016 | Type: Identifier
+Symbol:= | Address: 3024354287728 | Type: Operator
+Symbol:A | Address: 3024354641008 | Type: Identifier
+Symbol:+ | Address: 3024354778032 | Type: Operator
+Symbol:B | Address: 3024354387504 | Type: Identifier
+Symbol:* | Address: 3024348808368 | Type: Operator
+Symbol:C | Address: 3024354387376 | Type: Identifier
+Symbol:X | Address: 3024354556400 | Type: Identifier
+Symbol:= | Address: 3024354287728 | Type: Operator
+Symbol:W | Address: 3024354556336 | Type: Identifier
+Symbol:/ | Address: 3024348967536 | Type: Operator
+Symbol:M | Address: 3024354640816 | Type: Identifier
+Symbol:- | Address: 3024354367664 | Type: Operator
+Symbol:L | Address: 3024354243824 | Type: Identifier
+Symbol:E | Address: 3024357555824 | Type: Identifier
+
+Enter Your Choice
+1-create 2-Search 3-Enter Symbol 4-Remove 5-View 6-Exit 4
+Remove the Identifier/Operator:D
+
+Enter Your Choice
+1-create 2-Search 3-Enter Symbol 4-Remove 5-View 6-Exit 5
+Symbol:D | Address: 3024354556016 | Type: Identifier
+Symbol:= | Address: 3024354287728 | Type: Operator
+Symbol:A | Address: 3024354641008 | Type: Identifier
+Symbol:+ | Address: 3024354778032 | Type: Operator
+Symbol:B | Address: 3024354387504 | Type: Identifier
+Symbol:* | Address: 3024348808368 | Type: Operator
+Symbol:C | Address: 3024354387376 | Type: Identifier
+Symbol:X | Address: 3024354556400 | Type: Identifier
+Symbol:= | Address: 3024354287728 | Type: Operator
+Symbol:W | Address: 3024354556336 | Type: Identifier
+Symbol:/ | Address: 3024348967536 | Type: Operator
+Symbol:M | Address: 3024354640816 | Type: Identifier
+Symbol:- | Address: 3024354367664 | Type: Operator
+Symbol:L | Address: 3024354243824 | Type: Identifier
+Symbol:E | Address: 3024357555824 | Type: Identifier
+
+Enter Your Choice
+1-create 2-Search 3-Enter Symbol 4-Remove 5-View 6-Exit 6
